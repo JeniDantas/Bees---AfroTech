@@ -1,0 +1,56 @@
+
+html{
+    --background: white;
+    --text: black;
+  }
+
+ul{
+    display: inline-flex;
+    list-style: none;
+    padding: 15px;
+}
+
+li{
+    margin: 0 15px;
+}
+#menu{
+    background-color: blueviolet;
+    
+}
+
+#menu a{
+    font-size: 1.5em;
+    font-style: bold;
+    color: white;
+    text-decoration: none;
+
+}
+#JeniDantas{
+    display: inline-flex;
+    margin-left: 232px;
+}
+
+#jenititulo{
+    width: 50%;
+}
+
+.imgport{
+    width: 250px;
+    height: 250px;
+}
+
+.imgstacks{
+    width: 150px;
+    height: 150px;
+}
+#Contato{
+    padding-bottom: 20px;
+}
+
+.centralizartexto{
+    text-align: center;
+}
+body{
+    background-color: whitesmoke;
+}
+
