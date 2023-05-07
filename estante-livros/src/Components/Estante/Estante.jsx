@@ -1,6 +1,6 @@
 import React from "react";
 import "./Estante.css";
-import LivroAvaliado from "../../LivroAvaliado/LivroAvaliado";
+import LivroAvaliado from "../LivroAvaliado/LivroAvaliado";
 import livro1 from "../assets/livro1.jpg";
 import livro2 from "../assets/livro2.jpg";
 import livro3 from "../assets/livro3.jpg";

@@ -1,6 +1,6 @@
 import React from "react";
 import "./CardAvaliacao.css";
-import LivroAvaliado from "../../LivroAvaliado/LivroAvaliado";
+import LivroAvaliado from "../LivroAvaliado/LivroAvaliado";
 
 function CardAvaliacao(props){
     return(
