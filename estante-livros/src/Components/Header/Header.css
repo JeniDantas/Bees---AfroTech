@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.foto-perfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    border: solid 2px #836FFF;
+    margin: 30px 50px;
+}
+.nome-usuario{
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0px 30px;
+}
+.lidos, .vou-ler{
+    display: flex;
+    flex-direction: column;
+    color: 	#836FFF(103, 0, 0);
+    font-size: 30px;
+
+    margin: 0 30px;
+}
